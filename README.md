@@ -1,30 +1,58 @@
-# Navaratri Mahotsav 2026 - Event Website
+🎉 Navaratri Mahotsav 2026 - Event Website
 
-A responsive event website for a community Navaratri celebration. It has a festival poster, an event schedule table and a registration form.
+A responsive event website for a community Navaratri celebration. It features a festival poster, an event schedule table and a registration form.
 
-**Live Demo:** https://reshmithakanameni-hub.github.io/navaratri-event/
+Live Demo: https://reshmithakanameni-hub.github.io/navaratri-event/
 
-## Features
-- Festival poster with three event groups: Dandiya & Garba, Fun & Games, Competitions
-- Event schedule table with time, event name and colour-coded event type
-- Registration form with name, phone, email, flat number, attendees and event selection
-- Form handling with JavaScript (thank-you message on submit)
-- Responsive layout that works on mobile and desktop
+✨ Features
 
-## Built With
+- Festival poster featuring three event groups:
+  - Dandiya & Garba
+  - Fun & Games
+  - Competitions
+- Event schedule table displaying time, event name and colour-coded event type.
+- Registration form with name, phone, email, flat number, attendees and event selection.
+- JavaScript form handling with a thank-you message on submission.
+- Responsive layout that works on mobile and desktop.
+- Attractive styling using CSS Grid, Flexbox and CSS variables.
+- Google Fonts: Rozha One and Poppins.
+
+🛠️ Built With
+
 - HTML5
-- CSS3 (Grid, Flexbox, CSS variables)
+- CSS3
+  - Grid
+  - Flexbox
+  - CSS Variables
 - JavaScript
-- Google Fonts (Rozha One, Poppins)
+- Google Fonts
 
-## Project Structure
-- `index.html` - page structure and content
-- `navaratri.css` - styles
-- `navaratri.js` - registration form handling
+📂 Project Structure
 
-## Run Locally
+navaratri-event/
+│
+├── index.html
+├── navaratri.css
+├── navaratri.js
+└── README.md
+
+🚀 Run Locally
+
 1. Download or clone this repository.
-2. Open `index.html` in a browser, or use the VS Code Live Server extension.
+2. Open the project folder in VS Code.
+3. Open "index.html" in a browser.
+4. Alternatively, use the VS Code Live Server extension.
 
-## Note
-This is a demo project. All names, dates and phone numbers are sample data. The registration form is frontend only and does not store any data.
+👩‍💻 Author
+
+Reshmitha
+
+GitHub: https://github.com/reshmithakanameni-hub
+
+📝 Note
+
+This is a demo project. All names, dates and phone numbers are sample data. The registration form is frontend-only and does not store any data.
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
